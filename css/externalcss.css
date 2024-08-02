@@ -1,0 +1,98 @@
+body{
+    font-family: arial;
+    
+}
+.websitecolor
+{
+    background-color:rgb(5, 5, 87 ,0.8);
+    color:white;
+    
+   
+}
+
+#rentitquick
+{
+    color: blue;
+    box-sizing: border-box; 
+    font-size: 2.5vw;
+}
+
+#perfecthome
+{  
+     text-align: center;
+     font-size: 3vw;
+     color:white;
+     position:absolute;
+     top:40%;
+     
+     
+}
+#perfect:hover
+{
+   
+}
+#perfect
+{
+    color:aqua;
+}
+.content
+{
+    padding:50px 10px;
+}
+
+ 
+}
+.image{
+    font-size:1.5vw;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer
+{
+    text-align: center;
+    font-family: arial;
+    font-weight: 700;
+    font-size:2vw;
+    color: white;
+}
+.footer1
+{
+    text-align: center;
+    font-family: arial;
+    font-weight: 700;
+    color:white;
+    padding:10px 0px;
+   
+}
+a span:hover{
+    color:aqua;
+}
+
+a{
+    text-decoration: none;
+    color:red;
+    font-weight: 600px;
+}
+/* @media screen and (max-width:768px){
+    #perfecthome
+    {
+        top:auto;
+    }
+}
+
+
+
+@media screen and (max-width:425px){
+    #perfecthome
+    {
+        top:auto;
+    }
+
+}
+@media screen and (max-width:320px){
+    #perfecthome
+    {
+        top:auto;
+    }
+    } */
