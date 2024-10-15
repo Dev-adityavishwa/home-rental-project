@@ -1,3 +1,3 @@
-This is my first git repository  .
+This is my first project   .
 <br>
- My name is Aditya Vishwakarma  .  
+ I am Aditya Vishwakarma  .  
